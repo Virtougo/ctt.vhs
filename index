@@ -1,0 +1,11 @@
+<!DOCTYPE html>
+<html>
+<head>
+    <title>Meu Currículo</title>
+</head>
+<body>
+    <h1>Meu Currículo</h1>
+    <p>Clique no link abaixo para ver meu currículo:</p>
+    <p><a href="resume.pdf" target="_blank">Ver Currículo (PDF)</a></p>
+</body>
+</html>
